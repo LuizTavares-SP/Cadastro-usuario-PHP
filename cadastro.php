@@ -13,7 +13,3 @@ if(mysqli_query($conexao, $sql)){
 };
 
 mysqli_close($conexao);
-
-
-
-?>
